@@ -1,0 +1,12 @@
+img { width:30%; float: left;
+	margin: 1.66%}
+h1	{text-align: center}
+h1 {font-size: 53px; font-weight: 800;
+text-decoration: underline;}
+	h1 {font-family:Inknut Antiqua;}
+	h4 {font-family:Inknut Antiqua; font-weight: 800;
+		margin-left: 1.66%; border-bottom: 2px solid black; width: 30%}
+body	{background-color: #434b4d; font-size: 21px}
+h1 {border:2px solid black; margin-left:1.66%; margin-right: 1.66%; border-width: 21px;}
+h6 {font-family:Inknut Antiqua; font-weight: 800; font-style: italic;
+		margin-left: 1.66%;  width: 30%; font-size: 12px}
